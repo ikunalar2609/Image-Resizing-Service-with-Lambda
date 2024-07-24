@@ -1,12 +1,5 @@
 # Creating an Automatic Image Resizing Service with AWS Lambda
-
-## Project Objective
-
 In this project, we'll build an automatic image resizing service using AWS Lambda, triggered by image uploads to an S3 bucket. This service is useful for automatically creating thumbnails or resizing images for various applications.
-
-## Architecture Diagram
-
-![Lambda Automatic Image Resizing Service - Architecture Diagram](https://example.com/architecture-diagram)
 
 ## Steps
 
